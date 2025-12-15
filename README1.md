@@ -33,9 +33,7 @@ java job_portal.JobPortalApp
 
 ---
 
-## 💻 Option 2: Agar tum Java file daalna chahte ho
 
-### 🔹 File name:
 
 
 
